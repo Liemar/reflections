@@ -2,3 +2,7 @@ How do the diagrams help you visualize the branch structure?
 - show versions
 - show predecessors
 - show unreachabeble commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- merges two commits to one
+- predessor of both branches is registered
