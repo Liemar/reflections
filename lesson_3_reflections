@@ -13,3 +13,6 @@ Describe the differences between forks, clones, and branches. When would you use
 - a fork is usefull to copy an existing copy
 - by cloning I can make a ocal copa of a server version of my repository
 - by branhes I order my project
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- you know you know if there are change o the last state on the server
